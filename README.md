@@ -1,6 +1,6 @@
 # Öğrenci Yönetim Sistemi
 
-[![Testler](https://github.com/MERCANX25/-renci-Y-netim-Sistemi/actions/workflows/test.yml/badge.svg)](https://github.com/MERCANX25/-renci-Y-netim-Sistemi/actions/workflows/test.yml)
+[![Testler](https://github.com/MERCANX25/ogrenci-yonetim-sistemi/actions/workflows/test.yml/badge.svg)](https://github.com/MERCANX25/ogrenci-yonetim-sistemi/actions/workflows/test.yml)
 
 Öğrencileri ve notlarını **kendi yazdığım tek yönlü bağlı listede** tutan Java konsol uygulaması. Veri yapıları dersinde bağlı listeyi uygulamak için yaptım. Öğrenci ekleme, arama, not güncelleme, silme, başarı sıralaması ve sınıf istatistikleri var.
 
